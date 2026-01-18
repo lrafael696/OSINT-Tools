@@ -38,11 +38,12 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
   
 
 ## Información Pública de Ecuador
-- [Información Laboral](https://sut.trabajo.gob.ec/contratos-web/mrl/contenido/certificado.xhtml): Permite generar el certificado de información laboral para el sector público.
-- [Impedimento para Ejercer Cargo Público](https://calculadoras.trabajo.gob.ec/impedimento):  Permite generar el certificado de impedimentos para ejercer cargos públicos
-- [Consulta de Títutlos](https://www.senescyt.gob.ec/web/guest/consultas): Permite identificar si una persona tiene título de tercer nivel (La búsquede puede ser por cédula o apellidos)
 - [Identificar el Número de Identidad](https://srienlinea.sri.gob.ec/sri-en-linea/SriPagosWeb/ConsultaDeudasFirmesImpugnadas/Consultas/consultaDeudasFirmesImpugnadas): Permite identificar el número de identidad de una persona a partir de apellidos y nombres
 - [Identificar el Nombres de una Persona](https://srienlinea.sri.gob.ec/sri-en-linea/SriPagosWeb/ConsultaDeudasFirmesImpugnadas/Consultas/consultaDeudasFirmesImpugnadas): Permite identificar los nombres completos de una persona a partir de su número de identidad
+- [Identificación de fecha de naciomiento](https://www.ecuadorlegalonline.com/consultas/registro-civil/consultar-fecha-nacimiento/): Permite identificar la fecha de nacimiento de una persona a partir de sus nombres o número de identidad
+- [Consulta de Títutlos Profesionales](https://www.senescyt.gob.ec/web/guest/consultas): Permite identificar si una persona tiene título de tercer nivel (La búsquede puede ser por cédula o apellidos)
+- [Información Laboral](https://sut.trabajo.gob.ec/contratos-web/mrl/contenido/certificado.xhtml): Permite generar el certificado de información laboral para el sector público.
+- [Impedimento para Ejercer Cargo Público](https://calculadoras.trabajo.gob.ec/impedimento):  Permite generar el certificado de impedimentos para ejercer cargos públicos
 - [Identificación del dueño de un vehiculo](https://www.optar.com.ec/Optar.BPagos.Sri/PagoSriVehiculosAs.aspx): Portal que permite identificar el dueño de un vehícuulo a partir de una PLACA
 - [Guía Telefónica CNT](https://www.micnt.com.ec/cntapp/guia104/php/guia_cntat.php?hflagsubmit=0&cmbcriterio=1): Herramienta para identificar los dueños de un número de teléfono convencional de CNT
 - [Guía Telefónica ETAPA](https://www.etapa.net.ec/wp-content/uploads/2025/06/Guia-Telefonica-Cuenca-2025.pdf): Herramienta para identificar los dueños de un número de teléfono convencional de ETAPA
