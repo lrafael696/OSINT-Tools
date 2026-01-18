@@ -51,8 +51,9 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [Registro Social-SIIRS](https://siirs.registrosocial.gob.ec/pages/publico/busquedaPublica.jsf): Permite identificar si una persona se encuentra registrado en la base de datos del Registro Social, se requiere como dato de ingreso el número de cedula
 - [Citaciones de tránsito ](https://consultaweb.ant.gob.ec/PortalWEB/paginas/clientes/clp_criterio_consulta.jsp): Busqueda de citaciones de tránsito a partir de una cédula o placa
 - [Valores a pagar en Pichincha](https://www.amt.gob.ec/index.php/servicios/servicios-en-linea/consulta-tus-valores-a-pagar/): Portal que permite consultar valores a pagar en el districto metropolitano de quito
-- [Información de Compañías](https://appscvsgen.supercias.gob.ec/consultaCompanias/societario/busquedaCompanias.jsf): Herramienta consultar información de una compañia
-- [Información de Compañías](https://appscvsmovil.supercias.gob.ec/PortalInfor/consultaPrincipal.zul): Herramienta consultar información de una compañia
+- [Información de Compañías](https://appscvsgen.supercias.gob.ec/consultaCompanias/societario/busquedaCompanias.jsf): Consultar de información de una compañia
+- [Información de Compañías](https://appscvsmovil.supercias.gob.ec/PortalInfor/consultaPrincipal.zul): Consultar información de una compañia
+- [Información de Accionistas de una Compañías](https://appscvs1.supercias.gob.ec/consultaPersona/consulta_cia_param.zul): Consultar si una persona es accionista de una compañia
 - [Cobertura de Salud - MSP ](https://coresalud.msp.gob.ec/coresalud/app.php/publico/rpis/afiliacion/consulta): Consultas sobre cobertura de salud (IESS-ISSFA-ISSPOL)
 
 
