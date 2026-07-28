@@ -9,10 +9,9 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 
 
 
-
-
 ## Geolocalización e Información de IP
 - [MiLACNIC Query](https://query.milacnic.lacnic.net/home): Muestra información de IRR, RDAP, WHOIS, RDAP Web, Lacnic Tools.
+- [RDAP Query]([https://query.milacnic.lacnic.net/home](https://about.rdap.org/)): Muestra información de el protocolo RDAP en Lacnic.
 - [WhatIsMyIP.com®](https://www.whatismyip.com/es/): Muestra tu IP pública y datos básicos de conexión.
 - [IP Geolocation and Online Fraud Prevention | MaxMind](https://www.maxmind.com/en/home): Servicio de geolocalización IP y prevención de fraude.
 - [IP location (Geolocation)](https://www.iplocation.net/): Herramienta OSINT para recolección de información.
@@ -56,6 +55,7 @@ Este repositorio contiene una selección de herramientas OSINT clasificadas por 
 - [Información de Compañías](https://appscvsmovil.supercias.gob.ec/PortalInfor/consultaPrincipal.zul): Consultar información de una compañia
 - [Información de Accionistas de una Compañías](https://appscvs1.supercias.gob.ec/consultaPersona/consulta_cia_param.zul): Consultar si una persona es accionista de una compañia
 - [Cobertura de Salud - MSP ](https://coresalud.msp.gob.ec/coresalud/app.php/publico/rpis/afiliacion/consulta): Consultas sobre cobertura de salud (IESS-ISSFA-ISSPOL)
+- [Estado civil de una persona]: (https://online.registropropiedadportoviejo.gob.ec/registro/registrarUsuario): Ver información sobre el estado civil de una persona.
 
 
 
